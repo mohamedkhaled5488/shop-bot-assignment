@@ -1,0 +1,7 @@
+node_modules/
+.promptfoo/
+.claude/
+output.json
+output.csv
+output.html
+*.log
